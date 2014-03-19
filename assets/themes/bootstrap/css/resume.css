@@ -15,4 +15,5 @@ strong{margin-bottom:20px}
 #summary ol{/*padding-left: 15px;*/}
 #summary ol li{line-height:1.8em;font-size:1.2em;margin-left:0}
 #logo{margin-bottom:50px}h1{font-size:2em}
+.education strong{color:#555;padding-bottom:10px}.
 @media (max-width: 767px){#resume{margin:25px 0}#logo{text-align:center}}
