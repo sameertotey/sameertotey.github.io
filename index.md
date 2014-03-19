@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sameer Totey's Homepage
+title: Sameer Totey
 tagline: Sameer Totey's web home
 ---
 {% include JB/setup %}
@@ -8,5 +8,7 @@ tagline: Sameer Totey's web home
 ## Welcome to my HomePage
 
 This page is still under construction!
+
+
 
 
