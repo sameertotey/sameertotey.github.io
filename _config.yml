@@ -1,7 +1,9 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
-
+safe: true
+lsi: false
+source: /Users/sameertotey/github/sameertotey
 exclude: [".rvmrc", ".rbenv-version", "Rakefile"]
 pygments: true
 
@@ -18,6 +20,10 @@ author :
   twitter : sameertotey
   feedburner : SameerTotey
   facebook : sameertotey
+  streetAddress : 1860 Lehigh st
+  city : Boulder
+  state : CO 
+  zip : 80305
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
