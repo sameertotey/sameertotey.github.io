@@ -11,7 +11,8 @@ I am {{ site.author.name }}. Thanks for visiting my site. You can view my profes
 ##Contact Information
 If you need to contact me, please [email me](mailto:{{ site.author.email }})
 
-__Postal Address:__
+###Postal Address
+
 {{ site.author.streetAddress }}
 
 {{ site.author.city}}, {{ site.author.state }}

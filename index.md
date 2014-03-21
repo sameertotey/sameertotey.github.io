@@ -9,7 +9,7 @@ tagline: My web home
 
 Thanks for visiting my home page.  I intend to catalog my various projects here.  
 
-I am currently updating my web development skills.  So far I have explored various technologies including:
+I am currently updating my web development skills.  So far the platforms explored for web development projects include:
 * Ruby on Rails
 * Node.js
 * jQuery
