@@ -1,0 +1,10 @@
+---
+layout: page
+title : Projects
+header : Current projects
+group: navigation
+---
+{% include JB/setup %}
+
+I have recently worked on the following projects [Rotten Potatoes](http://www.sameertotey.com/rottenpotatoes/).  
+
