@@ -7,9 +7,9 @@ tagline: My web home
 
 ## Welcome to my HomePage
 
-Thanks for visiting my home page.  I intend to catalog my various projects here.  
+I am a software developer looking to getting back to writing quality software applications.  
 
-I am currently updating my web development skills.  So far the platforms explored for web development projects include:
+Recently I explored  currently updating my web development skills.  So far the platforms explored for web development projects include:
 * Ruby on Rails
 * Node.js
 * jQuery
