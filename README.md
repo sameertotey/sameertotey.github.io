@@ -3,7 +3,7 @@
 
 ## Author
 
-**Mark Otto**
+**Sameer Totey**
 - <https://github.com/sameertotey>
 - <https://twitter.com/sameertotey>
 
