@@ -9,7 +9,7 @@ I am very excited to report that my very first iOS app is now available on the [
 Please use the game and review it on the App Store.
 </p>
 
-# Blackjack-Configurable
+# [Blackjack-Configurable]( https://itunes.apple.com/us/app/blackjack-configurable/id975037070?ls=1&mt=8)
 
 It's a iOS app written in Swift. All graphics and animation for the game was done using the iOS UIKit framework. The game is integrated with [Apple's game center](https://developer.apple.com/game-center/).
 
