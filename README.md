@@ -1,5 +1,6 @@
 # Sameer Totey
 
+My personal Blog!
 
 ## Author
 
@@ -7,6 +8,6 @@
 - <https://github.com/sameertotey>
 - <https://twitter.com/sameertotey>
 - <https://facebook.com/sameertotey>
-- <https://linkedin.com/sameertotey>
+- <https://linkedin.com/in/sameertotey>
 
 
