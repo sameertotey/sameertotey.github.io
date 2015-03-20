@@ -11,7 +11,7 @@ Passionate about iOS app development using Swift.
 
 Completed [Bloc's](https://www.bloc.io) online iOS development apprenticeship. 
 
-- Please check my [Blackjack card game app on the App Store](http://www.sameertotey.com/BlackJack).
+- Please check my [Blackjack card game app on the App Store](https://itunes.apple.com/us/app/blackjack-configurable/id975037070?ls=1&mt=8).
 
 - Currently working on an iOS app for an independent [Limo Service](http://www.sameertotey.com/LimoService)
 
@@ -31,6 +31,11 @@ Postal Address:<br>
 Boulder, CO, 80305<br>
 USA
 </address>
+
+<a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+----
+
 
 
 
