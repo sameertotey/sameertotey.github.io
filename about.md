@@ -7,15 +7,20 @@ title: About
   iOS developer and software engineer living in Boulder, CO.
 </p>
 
-Passionate about iOS app development using Swift.  Recently finishing [Bloc's](https://www.bloc.io) online iOS development apprenticeship. I am looking for iOS development gig. Please check my background and learn more [about](http://www.sameertotey.com/about) me.
+Passionate about iOS app development using Swift.  
 
-- Currently working on [Limo Service App](http://www.sameertotey.com/LimoService)
+Completed [Bloc's](https://www.bloc.io) online iOS development apprenticeship. 
 
 - Please check my [Blackjack card game app on the App Store](http://www.sameertotey.com/BlackJack).
 
+- Currently working on an iOS app for an independent [Limo Service](http://www.sameertotey.com/LimoService)
+
+Interested in iOS development Gig. Please check my background to learn more [about](http://www.sameertotey.com/about) me.
+
+You can view my [PDF resume](http://www.sameertotey.com/SAMEER TOTEY.pdf)
 
 <p class="message">
-  Thanks for for your interest!
+  Thanks for your interest! 
 </p>
 
 ## Address
@@ -27,7 +32,6 @@ Boulder, CO, 80305<br>
 USA
 </address>
 
-You can download my [resume](http://www.sameertotey.com/SAMEER TOTEY.pdf)
 
 
 
