@@ -12,3 +12,5 @@ This blog was constructed using [Jekyll](http://jekyllrb.com) a static site gene
 I have adapted the styles from [Hyde](https://github.com/poole/hyde). Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler. The overall concept of this blog is inspired from [Jekyll now](https://github.com/barryclark/jekyll-now).
 
 The blog is hosted on [Github Pages](https://pages.github.com/).
+
+----

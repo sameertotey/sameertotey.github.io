@@ -3,7 +3,7 @@ layout: post
 title: My First iOS App on the App Store
 ---
 
-I am very excited to report that my very first iOS app is now available on the [App Store[( https://itunes.apple.com/us/app/blackjack-configurable/id975037070?ls=1&mt=8). 
+I am very excited to report that my very first iOS app is now available on the [App Store]( https://itunes.apple.com/us/app/blackjack-configurable/id975037070?ls=1&mt=8). 
 
 <p class="message">
 Please use the game and review it on the App Store.
@@ -26,5 +26,5 @@ I have spend great effort to ensure that all the Blackjack game rules are applie
 
 I plan to add more features to this game in the future releases, please stay tuned for updates. In the meanwhile visit the app's [support site](http://www.sameertotey.com/BlackJack/) to learn how to play the game.
 
-
+----
 
